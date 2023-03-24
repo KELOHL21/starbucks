@@ -49,7 +49,7 @@ const Navbar = () => {
             </ul>
          </div>
 
-         <div onClick={handleNav} className='sm:hidden mr-5 cursor-pointer hover:bg-['>
+         <div onClick={handleNav} className='sm:hidden mr-5 cursor-pointer hover:bg-[#f7f7f7] hover:rounded-full hover:py-[5px] hover:px-[5px] duration-500 ease-in'>
             <Image src={'/assets/asset 7.svg'} alt="/" height={25} width={25}></Image>
          </div>
          
