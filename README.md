@@ -23,3 +23,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 <p>The orginal Starbucks website is available if any comparisons are needed.  i.e - https://www.starbucks.co.za/</p>
 
 <p>None of these images are mine every image/text is borrowed </p>
+
+<h2> Deploy via Vercel </h2>
+
+<p>https://starbucks-clone-pi.vercel.app</p>
